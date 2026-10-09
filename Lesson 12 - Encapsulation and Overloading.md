@@ -220,8 +220,7 @@ Then work on the exercise in `Thermostat.java`.
 
 ### ICS 4U
 
-"I can use encapsulation (private attributes, validation, and private helper methods) and method overloading in my classes"
-is a requirement of the course and will be expected in your programming project.
+This is the final lesson for the Classes and Objects criteria.  Your teacher will update the Programming Test 1 document with specific *Look Fors*, and you should now be able to add this concept to your projects.
 
 ### AP Expectations
 
