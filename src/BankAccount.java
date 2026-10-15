@@ -12,6 +12,7 @@ public class BankAccount {
     // instance variables: every account has its own
     private String owner;
     private double balance;
+    
 
     // class variable: ONE copy, shared by every account
     private static int accountsOpened = 0;
